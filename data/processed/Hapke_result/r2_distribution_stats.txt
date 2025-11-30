@@ -1,0 +1,9 @@
+R2 distribution statistics for each sample:
+Mean: 0.9913
+Median: 0.9976
+Std Dev: 0.0208
+Min: 0.8655
+Max: 1.0000
+Q1 (25% percentile): 0.9951
+Q3 (75% percentile): 0.9999
+IQR (Q3 - Q1): 0.0048
